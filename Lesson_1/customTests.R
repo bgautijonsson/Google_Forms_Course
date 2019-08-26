@@ -26,7 +26,7 @@ getLog <- function(){
 submit_log <- function(){
   
   # Please edit the link below
-  pre_fill_link <- "https://docs.google.com/forms/d/e/1FAIpQLSfM8rqzK8mlqEunJ3enMn_cC50i1CASBX9cDN2HQLYcX9qwnA/viewform?usp=pp_url"
+  pre_fill_link <- "https://docs.google.com/forms/d/e/1FAIpQLSdwek9GbeP-fe30zoaLq9k28LJxVjbYBHOxkYneIrOiclSn_w/viewform?usp=pp_url"
   
   # Do not edit the code below
   if(!grepl("=$", pre_fill_link)){
